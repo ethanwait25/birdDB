@@ -1,0 +1,4 @@
+{
+    "getSqlPrompt": "Give me a MySQL select statement that answers the question. Only respond with MySQL syntax. If there's an error, do not explain it. If the question would not be answered using a select, respond with nothing.",
+    "explainDataPrompt": "I asked a question: '{}' and I queried this database: '{}' with this query: '{}'. The query returned the results data: '{}'. Could you concisely answer my question using the results data in a friendly way?"
+}
