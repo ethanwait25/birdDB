@@ -1,5 +1,14 @@
 # BirdDB
 
+```
+ ____  _         _ _____  ____  
+|  _ \(_)       | |  __ \|  _ \        \\     
+| |_) |_ _ __ __| | |  | | |_) |       (o>    
+|  _ <| | '__/ _` | |  | |  _ <     \\_//)    
+| |_) | | | | (_| | |__| | |_) |     \_/_)  
+|____/|_|_|  \__,_|_____/|____/       _|_  
+```
+
 ### Query/Response Examples
 
 Question: *How many birds have been seen in the past two years?*<br>
